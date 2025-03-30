@@ -1,0 +1,65 @@
+{
+    "RDCXO09P46QZ": {
+        "max_users": 2,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "00:01"
+    },
+    "L6O93RHYOZY7": {
+        "max_users": 2,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "00:01"
+    },
+    "9D6G2L2XWHLB": {
+        "max_users": 2,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "20:00"
+    },
+    "AX60A6AB377T": {
+        "max_users": 1,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "01:00"
+    },
+    "OSOLTEL3NPR2": {
+        "max_users": 1,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "00:01"
+    },
+    "ERNY5T1C039Z": {
+        "max_users": 5,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "01:00"
+    },
+    "H4CVG0XKV2HW": {
+        "max_users": 1,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "24:00"
+    },
+    "RZ27HIQE2HKC": {
+        "max_users": 1,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "24:00"
+    },
+    "9AO96F2KB0U7": {
+        "max_users": 1,
+        "used_users": [
+            "7192243354"
+        ],
+        "duration": "01:00"
+    }
+}
